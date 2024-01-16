@@ -1,0 +1,19 @@
+Departure Date: dwcwc
+ From : wdc
+At : wdc
+Going TO: wc
+Arrival Time: wc
+Arrival Date: wcwcPassenger userid: A00
+Passenger name:shayan
+Passenger phone:033022
+Seat status: availaible
+price:42Departure Date: wef
+ From : fwef
+At : fwef
+Going TO: wef
+Arrival Time: wef
+Arrival Date: fwfPassenger userid: A00
+Passenger name:asjdnf
+Passenger phone:qd
+Seat status: availaible
+price:42

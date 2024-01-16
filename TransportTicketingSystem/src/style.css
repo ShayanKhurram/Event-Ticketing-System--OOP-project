@@ -1,0 +1,59 @@
+/* style.css */
+
+/* Style the header background */
+.table-view .column-header-background {
+    -fx-background-color: #3498db; /* Blue color */
+}
+
+/* Style the header text */
+.table-view .column-header {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+/* Style the odd rows background */
+.table-row-cell:odd {
+    -fx-background-color: #ecf0f1; /* Light gray color */
+}
+
+/* Style the even rows background */
+.table-row-cell:even {
+    -fx-background-color: #ffffff; /* White color */
+}
+
+/* Style the cell text color */
+.table-cell {
+    -fx-text-fill: #333333; /* Dark gray color */
+}
+
+/* Style the selected row background */
+.table-row-cell:selected {
+    -fx-background-color: #2980b9; /* Darker blue for selection */
+    -fx-text-fill: white;
+}
+
+/* Hover effect on rows */
+.table-row-cell:hover {
+    -fx-background-color: #d4e6f1; /* Lighter blue on hover */
+}
+/* Style the background of the text field */
+.text-field {
+    -fx-background-color: #ecf0f1; /* Light gray color */
+}
+
+/* Style the text color in the text field */
+.text-field .text-input {
+    -fx-text-fill: #333333; /* Dark gray color */
+}
+
+/* Style the border color of the text field */
+.text-field {
+    -fx-border-color: #3498db; /* Blue color */
+    -fx-border-width: 1px;
+}
+
+/* Style the focused (selected) state of the text field */
+.text-field:focused {
+    -fx-background-color: #ffffff; /* White color when focused */
+    -fx-border-color: #3498db; /* Blue color when focused */
+}
